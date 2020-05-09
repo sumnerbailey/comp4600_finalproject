@@ -9,7 +9,9 @@ In order to get the first two cells to work, I had to reinstall tensorflow to th
 
 
 !pip uninstall osqp -y
+
 !pip install scikit-survival
+
 !pip install tensorflow==1.13.1
 
 Other than that I just followed the instructions in the .ipynb file. 
