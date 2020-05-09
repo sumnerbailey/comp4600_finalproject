@@ -14,4 +14,4 @@ In order to get the first two cells to work, I had to reinstall tensorflow to th
 
 !pip install tensorflow==1.13.1
 
-Other than that I just followed the instructions in the .ipynb file. 
+Other than that I just followed the instructions in the .ipynb file. Everything ran through Google Collab without any issue. Simply pressing the run button on each cell compiled and ran the code. 
